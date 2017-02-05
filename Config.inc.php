@@ -12,7 +12,7 @@ return array(
 	//模块简介
 	'introduce' => '交易记录管理，统一交易明细',
 	//模块介绍地址
-	'address' => 'http://ztbcms.com',
+	'address' => 'http://doc.ztbcms.com/module/trade/',
 	//模块作者
 	'author' => 'ZtbCMS-zhlhuang',
 	//作者地址
